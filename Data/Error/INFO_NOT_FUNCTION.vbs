@@ -1,0 +1,1 @@
+MsgBox ("This Function does not work! use this to copy path.") ,64, "Info"
