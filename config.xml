@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<Version Name="Version" Value="1.6"/>
+	<Feature Name="useLastPath" Enabled="False"/>
+	<Feature Name="bckpic" Value=".\bck.jpg"/>
+	<Feature Name="defaultPath" Value="C:\Windows\Web\Wallpaper\Windows\img0.jpg"/>
+	<Favorite Name="fav1" Value="C:\Windows\Web\Wallpaper\Windows\img0.jpg"/>
+	<Favorite Name="fav2" Value="Nothing Here"/>
+	<Favorite Name="fav3" Value="Nothing Here"/>
+	//DISABLED//
+	<Background Name="bck1" Value="C:\Windows\Web\Wallpaper\Windows\img0.jpg"/>
+	<Background Name="bckpicNAME" Value="Default Windows Background"/>
+	<Background Name="bck2" Value=".\Data\Image\1.jpg"/>
+	<Background Name="bckpic2NAME" Value="Old Windows 10 Background"/>
+	//DISABLED//
+	<Feature Name="minimizeAll" Value="false"/>
+	<Feature Name="checkpath" Value="true"/>
+	<Feature Name="defaultIP" Value="127.0.0.1"/>
+	<Feature Name="IconFile" Value=".\Data\Image\3.png"/>
+	<Feature Name="NullPath" Value="NO_PATH"/>
+</Configuration>
